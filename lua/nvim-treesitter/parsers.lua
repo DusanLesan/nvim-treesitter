@@ -202,6 +202,15 @@ list.blueprint = {
   experimental = true,
 }
 
+list.brightscript = {
+  install_info = {
+    url = "https://github.com/DusanLesan/tree-sitter-brightscript",
+    files = { "src/parser.c" },
+  },
+  filtype = "brs",
+  maintainers = { "@DusanLesan" },
+}
+
 list.c = {
   install_info = {
     url = "https://github.com/tree-sitter/tree-sitter-c",

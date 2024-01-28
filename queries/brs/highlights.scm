@@ -1,0 +1,1 @@
+/home/dusan/git/tree-sitter-brs/queries/highlights.scm
